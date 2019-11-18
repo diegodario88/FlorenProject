@@ -1,0 +1,322 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/logan/repos/Florença/src/Floren.Api/Floren.Api.csproj": {}
+  },
+  "projects": {
+    "/home/logan/repos/Florença/src/Floren.Api/Floren.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/logan/repos/Florença/src/Floren.Api/Floren.Api.csproj",
+        "projectName": "Floren.Api",
+        "projectPath": "/home/logan/repos/Florença/src/Floren.Api/Floren.Api.csproj",
+        "packagesPath": "/home/logan/.nuget/packages/",
+        "outputPath": "/home/logan/repos/Florença/src/Floren.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/logan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "/home/logan/repos/Florença/src/Floren.Domain/Floren.Domain.csproj": {
+                "projectPath": "/home/logan/repos/Florença/src/Floren.Domain/Floren.Domain.csproj"
+              },
+              "/home/logan/repos/Florença/src/Floren.Injection/Floren.Injection.csproj": {
+                "projectPath": "/home/logan/repos/Florença/src/Floren.Injection/Floren.Injection.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/logan/repos/Florença/src/Floren.Data/Floren.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/logan/repos/Florença/src/Floren.Data/Floren.Data.csproj",
+        "projectName": "Floren.Data",
+        "projectPath": "/home/logan/repos/Florença/src/Floren.Data/Floren.Data.csproj",
+        "packagesPath": "/home/logan/.nuget/packages/",
+        "outputPath": "/home/logan/repos/Florença/src/Floren.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/logan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "/home/logan/repos/Florença/src/Floren.Domain/Floren.Domain.csproj": {
+                "projectPath": "/home/logan/repos/Florença/src/Floren.Domain/Floren.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "LinqKit.Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[1.1.16, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Analyzers": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.9.3, )"
+            },
+            "SSPLibrary.Extensions.Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/logan/repos/Florença/src/Floren.Domain/Floren.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/logan/repos/Florença/src/Floren.Domain/Floren.Domain.csproj",
+        "projectName": "Floren.Domain",
+        "projectPath": "/home/logan/repos/Florença/src/Floren.Domain/Floren.Domain.csproj",
+        "packagesPath": "/home/logan/.nuget/packages/",
+        "outputPath": "/home/logan/repos/Florença/src/Floren.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/logan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/logan/repos/Florença/src/Floren.Injection/Floren.Injection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/logan/repos/Florença/src/Floren.Injection/Floren.Injection.csproj",
+        "projectName": "Floren.Injection",
+        "projectPath": "/home/logan/repos/Florença/src/Floren.Injection/Floren.Injection.csproj",
+        "packagesPath": "/home/logan/.nuget/packages/",
+        "outputPath": "/home/logan/repos/Florença/src/Floren.Injection/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/logan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "/home/logan/repos/Florença/src/Floren.Data/Floren.Data.csproj": {
+                "projectPath": "/home/logan/repos/Florença/src/Floren.Data/Floren.Data.csproj"
+              },
+              "/home/logan/repos/Florença/src/Floren.Domain/Floren.Domain.csproj": {
+                "projectPath": "/home/logan/repos/Florença/src/Floren.Domain/Floren.Domain.csproj"
+              },
+              "/home/logan/repos/Florença/src/Floren.Services/Floren.Services.csproj": {
+                "projectPath": "/home/logan/repos/Florença/src/Floren.Services/Floren.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/logan/repos/Florença/src/Floren.Services/Floren.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/logan/repos/Florença/src/Floren.Services/Floren.Services.csproj",
+        "projectName": "Floren.Services",
+        "projectPath": "/home/logan/repos/Florença/src/Floren.Services/Floren.Services.csproj",
+        "packagesPath": "/home/logan/.nuget/packages/",
+        "outputPath": "/home/logan/repos/Florença/src/Floren.Services/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/logan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "/home/logan/repos/Florença/src/Floren.Domain/Floren.Domain.csproj": {
+                "projectPath": "/home/logan/repos/Florença/src/Floren.Domain/Floren.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

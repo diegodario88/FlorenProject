@@ -1,0 +1,3 @@
+/home/logan/repos/Florença/src/Floren.Api/obj/Debug/netstandard2.1/Floren.Api.csprojAssemblyReference.cache
+/home/logan/repos/Florença/src/Floren.Api/obj/Debug/netstandard2.1/Floren.Api.AssemblyInfoInputs.cache
+/home/logan/repos/Florença/src/Floren.Api/obj/Debug/netstandard2.1/Floren.Api.AssemblyInfo.cs

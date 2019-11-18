@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Floren.Domain\Floren.Domain.csproj" />
+    <ProjectReference Include="..\Floren.Injection\Floren.Injection.csproj" />
+  </ItemGroup>
+
+</Project>

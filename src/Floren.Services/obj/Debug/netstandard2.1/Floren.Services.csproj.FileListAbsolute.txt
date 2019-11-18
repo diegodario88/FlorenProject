@@ -1,0 +1,11 @@
+/home/logan/repos/Florença/src/Floren.Services/obj/Debug/netstandard2.1/Floren.Services.AssemblyInfoInputs.cache
+/home/logan/repos/Florença/src/Floren.Services/obj/Debug/netstandard2.1/Floren.Services.AssemblyInfo.cs
+/home/logan/repos/Florença/src/Floren.Services/bin/Debug/netstandard2.1/Floren.Services.deps.json
+/home/logan/repos/Florença/src/Floren.Services/bin/Debug/netstandard2.1/Floren.Services.dll
+/home/logan/repos/Florença/src/Floren.Services/bin/Debug/netstandard2.1/Floren.Services.pdb
+/home/logan/repos/Florença/src/Floren.Services/bin/Debug/netstandard2.1/Floren.Domain.dll
+/home/logan/repos/Florença/src/Floren.Services/bin/Debug/netstandard2.1/Floren.Domain.pdb
+/home/logan/repos/Florença/src/Floren.Services/obj/Debug/netstandard2.1/Floren.Services.csproj.CopyComplete
+/home/logan/repos/Florença/src/Floren.Services/obj/Debug/netstandard2.1/Floren.Services.dll
+/home/logan/repos/Florença/src/Floren.Services/obj/Debug/netstandard2.1/Floren.Services.pdb
+/home/logan/repos/Florença/src/Floren.Services/obj/Debug/netstandard2.1/Floren.Services.csprojAssemblyReference.cache

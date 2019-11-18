@@ -1,0 +1,86 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {
+      "Floren.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Floren.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Floren.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Floren.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Floren.Domain/Floren.Domain.csproj",
+      "msbuildProject": "../Floren.Domain/Floren.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": [
+      "Floren.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/logan/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/logan/repos/Florença/src/Floren.Services/Floren.Services.csproj",
+      "projectName": "Floren.Services",
+      "projectPath": "/home/logan/repos/Florença/src/Floren.Services/Floren.Services.csproj",
+      "packagesPath": "/home/logan/.nuget/packages/",
+      "outputPath": "/home/logan/repos/Florença/src/Floren.Services/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/logan/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "projectReferences": {
+            "/home/logan/repos/Florença/src/Floren.Domain/Floren.Domain.csproj": {
+              "projectPath": "/home/logan/repos/Florença/src/Floren.Domain/Floren.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "NETStandard.Library": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

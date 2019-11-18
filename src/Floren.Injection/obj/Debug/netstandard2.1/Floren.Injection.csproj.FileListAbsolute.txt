@@ -1,0 +1,15 @@
+/home/logan/repos/Florença/src/Floren.Injection/bin/Debug/netstandard2.1/Floren.Injection.deps.json
+/home/logan/repos/Florença/src/Floren.Injection/bin/Debug/netstandard2.1/Floren.Injection.dll
+/home/logan/repos/Florença/src/Floren.Injection/bin/Debug/netstandard2.1/Floren.Injection.pdb
+/home/logan/repos/Florença/src/Floren.Injection/obj/Debug/netstandard2.1/Floren.Injection.csprojAssemblyReference.cache
+/home/logan/repos/Florença/src/Floren.Injection/obj/Debug/netstandard2.1/Floren.Injection.AssemblyInfoInputs.cache
+/home/logan/repos/Florença/src/Floren.Injection/obj/Debug/netstandard2.1/Floren.Injection.AssemblyInfo.cs
+/home/logan/repos/Florença/src/Floren.Injection/obj/Debug/netstandard2.1/Floren.Injection.dll
+/home/logan/repos/Florença/src/Floren.Injection/obj/Debug/netstandard2.1/Floren.Injection.pdb
+/home/logan/repos/Florença/src/Floren.Injection/bin/Debug/netstandard2.1/Floren.Data.dll
+/home/logan/repos/Florença/src/Floren.Injection/bin/Debug/netstandard2.1/Floren.Domain.dll
+/home/logan/repos/Florença/src/Floren.Injection/bin/Debug/netstandard2.1/Floren.Domain.pdb
+/home/logan/repos/Florença/src/Floren.Injection/bin/Debug/netstandard2.1/Floren.Data.pdb
+/home/logan/repos/Florença/src/Floren.Injection/obj/Debug/netstandard2.1/Floren.Injection.csproj.CopyComplete
+/home/logan/repos/Florença/src/Floren.Injection/bin/Debug/netstandard2.1/Floren.Services.dll
+/home/logan/repos/Florença/src/Floren.Injection/bin/Debug/netstandard2.1/Floren.Services.pdb
